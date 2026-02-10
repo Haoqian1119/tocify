@@ -17,7 +17,7 @@ If it is primarily microbiology/immunology/metabolism/genetics without neural dy
   cap score at 0.25. -->
 
 ## keywords
-EEG
+Journal of Non-Newtonian Fluid Mechanics
 electroencephalography
 MEG
 magnetooencephalography
