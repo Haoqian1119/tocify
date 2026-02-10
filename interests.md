@@ -18,31 +18,10 @@ If it is primarily microbiology/immunology/metabolism/genetics without neural dy
 
 ## keywords
 Journal of Non-Newtonian Fluid Mechanics
-electroencephalography
-MEG
-magnetooencephalography
-LFP
-local field potential
-iEEG
-ECoG
-electrocorticography
-neural oscillations
-aperiodic activity
-neural timescales
-ECG
-electrocorticography
-working memory
-attention
-cognitive control
-respiration waveform
-specparam
-spectral parameterization
-fooof
-bycycle
-neural data science
-computational neuroscience
-neural computation
-aging and cognition
+Journal of Fluid Mechanics
+Computational Fluid Mechanics
+
+
 
 ## narrative
 My research focuses on large-scale neural and physiological dynamics using computational and data-science approaches across species and recording modalities. I work extensively with heterogeneous datasets (EEG, LFP, iEEG, behavioral and physiological signals), emphasizing open science, reproducible methods, and scalable analysis tools for neural time series.
