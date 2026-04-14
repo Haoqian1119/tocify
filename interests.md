@@ -17,9 +17,9 @@ If it is primarily microbiology/immunology/metabolism/genetics without neural dy
   cap score at 0.25. -->
 
 ## keywords
-Journal of Non-Newtonian Fluid Mechanics
-Journal of Fluid Mechanics
-Computational Fluid Mechanics
+- Fluid dynamics
+- Computational Fluid Mechanics
+- multiphase flow 
 
 
 
